@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#0B304D",
+        "titleBar.activeBackground": "#0F436C",
+        "titleBar.activeForeground": "#F8FBFE"
+    },
+    "cSpell.words": [
+        "fkcsmr",
+        "streamifier"
+    ]
+}
